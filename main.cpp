@@ -1,5 +1,5 @@
 //Test using GITHUB
-// Author Bernard Bisuna
+// Author: Breanna Bisuna, Bernard Bisuna
 // Description: Hello World in C++
 //============================================================
 //main
@@ -19,14 +19,15 @@ int main()
     return 0;
 }
 
+// hello1Function
 /*
-* hello2Function.cpp
+* hello1Function.cpp
 *
 */
 #include <iostream>
 using namespace std;
-int hello2Function(string name2)
+int hello1Function(string name1)
 {
-cout << "hello World " << name2 << endl;
+cout << "hello World " << name1 << endl;
 return 0;
 }
